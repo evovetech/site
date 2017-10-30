@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://evovetech.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "evove.tech"
 theme = "steam"
 # Enable Google Analytics be inserting your tracking code
 googleAnalytics = ""
@@ -8,12 +8,12 @@ googleAnalytics = ""
 paginate = 10
 
 [params]
-	title = "Steam"
-	subtitle = "a minimal theme for ~~Ghost~~ Hugo"
+	title = "evove.tech"
+	subtitle = "your tech evo<sub>ve</sub>lution begins here"
 	copyright = "Released under the MIT license."
 
 	# You can choose between green, orange, red and blue.
-	themecolor = "green"
+	themecolor = "blue"
 
 	# Link custom assets relative to /static
 	favicon   = "favicon.ico"
@@ -22,12 +22,12 @@ paginate = 10
 
 	# To provide some metadata for search engines and the about section in the footer
 	# feel free to add a few information about you and your website.
-	name = "John Doe"
+	name = "evove.tech"
 	bio = "programmer - blogger - coffee aficionado"
 	description = "Your description of the blog"
 
 	# Link your social networks (optional)
-	location = ""
+	location = "Austin, TX"
 	twitter = ""
 	linkedin = ""
 	googleplus = ""
