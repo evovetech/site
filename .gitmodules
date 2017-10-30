@@ -1,3 +1,7 @@
 [submodule "themes/steam"]
 	path = themes/steam
 	url = git@github.com:digitalcraftsman/hugo-steam-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:evovetech/evovetech.github.io.git
+	branch = master
