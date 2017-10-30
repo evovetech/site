@@ -8,8 +8,10 @@ googleAnalytics = ""
 paginate = 10
 
 [params]
-	title = "<span class='evove'>evove</span><span class='dot'>.</span><span class='tech'>tech</span>"
-	subtitle = "your tech <span class='evove'>evo</span><sub>ve</sub><span class='tech'>lution</span> begins here"
+    title = "evove.tech"
+    subtitle = "your tech evovelution begins here"
+	mdTitle = "<span class='evove'>evove</span><span class='dot'>.</span><span class='tech'>tech</span>"
+	mdSubtitle = "your tech <span class='evove'>evo</span><sub>ve</sub><span class='tech'>lution</span> begins here"
 	copyright = "Released under the MIT license."
 
 	# You can choose between green, orange, red and blue.
